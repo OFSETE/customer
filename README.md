@@ -1,2 +1,2 @@
 # customer
-API customer em pyton.
+API customer em python.
